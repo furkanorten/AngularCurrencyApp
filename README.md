@@ -1,6 +1,19 @@
 # AngularCurrencyApp
 
+### Web application with Angular where you can convert currencies
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Heroku deployment link
+
+https://fortencurrency.herokuapp.com/
+
+## Currency API
+
+https://rapidapi.com/solutionsbynotnull/api/currency-converter18/
+
+## Installing Packages
+
+Run `npm install` for installing node modules.
 
 ## Development server
 
