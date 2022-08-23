@@ -1,0 +1,17 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+html, body { height: 100%; }
+body { background-color:rgb(25, 25, 25); margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.example-card {
+  max-width: 350px;
+}
+
+.mat-success {
+  background-color:gold;
+  color: black;
+}
+
+.title {
+  color:gold;
+}
