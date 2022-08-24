@@ -4,5 +4,5 @@ export const environment = {
   XRapidAPIHostHeaderName: 'X-RapidAPI-Host',
   XRapidAPIHostHeaderValue: 'currency-converter18.p.rapidapi.com',
   XRapidAPIKeyName: 'X-RapidAPI-Key',
-  XRapidAPIKeyValue: 'Your Rapid API key'
+  XRapidAPIKeyValue: '66ce98bbc7msh6d1465cdd6647a6p1f34b4jsnf537d7ec5cef'
 };
