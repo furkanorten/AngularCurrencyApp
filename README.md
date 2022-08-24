@@ -3,9 +3,9 @@
 ### Web application with Angular where you can convert currencies
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
-## Heroku deployment link
+## Firebase deployment link
 
-https://fortencurrency.herokuapp.com/
+https://fortencurrencyapp.web.app/
 
 ## Currency API
 
