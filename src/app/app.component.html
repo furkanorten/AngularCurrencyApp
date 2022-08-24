@@ -31,7 +31,9 @@
       </mat-card-content>
     </div>
     <mat-card-content *ngIf="currencyData.success" class="text-center">
-      <h2 class="fw-bold">{{tmpAmount}} {{tmpFrom}} = {{tmpConvertedAmount | number : '1.1-2'}} {{tmpTo}}</h2>
+      <h2 class="fw-bold mt-1">{{tmpAmount}} {{tmpFrom}}</h2>
+      <h2 class="fw-bold">=</h2>
+      <h2 class="fw-bold">{{tmpConvertedAmount | number : '1.1-2'}} {{tmpTo}}</h2>
     </mat-card-content>
   </mat-card>
 </div>
