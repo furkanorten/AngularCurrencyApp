@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Firebase deployment link
 
-https://fortencurrencyapp.web.app/
+https://fortencurrencyapp.firebaseapp.com/
 
 ## Currency API
 
